@@ -1,6 +1,6 @@
 <template>
  <div class="card">
-    <h2 class="title">Happy Birthday!, Lucy Fairuz!</h2>
+    <h2 class="title">Happy Birthday!, Lucy!</h2>
     <div class="cake">
       <div class="velas">
         <div class="fuego"></div>
